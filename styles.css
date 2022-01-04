@@ -89,6 +89,7 @@ footer{
 
 .card{
   background-color: #fff;
+  /* background-color:pink; */
   height: 18rem;
   border-radius: 10px;
 }
